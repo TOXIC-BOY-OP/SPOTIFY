@@ -16,31 +16,31 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     anon = math.floor(percentage)
     if 0 < anon <= 2:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 2 < anon < 3:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 3 <= anon < 4:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 4 <= anon < 5:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 6 <= anon < 7:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 7 <= anon < 8:
         bar = "🥀TEAM-AGORA🥀"
     elif 9 <= anon < 10:
-        bar = "💥𝙰TEAM-AGORA💥"
+        bar = "💥𝙰TEAM-SPOTIFY💥"
     elif 11 <= anon < 12:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 12 <= anon < 13:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 13 < anon < 14:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 14 <= anon < 15:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 15 <= anon < 16:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 16 <= anon < 17:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 17 <= anon < 18:
         bar = "💥TEAM-AGORA💥"
     elif 18 <= anon < 19:
@@ -172,47 +172,47 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     elif 81 <= anon < 82:
         bar = "💥TEAM-AGORA💥"
     elif 82 <= anon < 83:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 83 <= anon < 84:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 84 <= anon < 85:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 85 <= anon < 86:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 86 <= anon < 87:
-        bar = "🥀TEAM-AGORA𝙴🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 87 <= anon < 88:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 88 <= anon < 89:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 89 <= anon < 90:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 90 <= anon < 91:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 91 <= anon < 92:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 92 <= anon < 93:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 93 <= anon < 94:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 94 <= anon < 95:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 95 <= anon < 96:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 96 <= anon < 97:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     elif 97 <= anon < 98:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 98 <= anon < 99:
-        bar = "🥀TEAM-AGORA🥀"
+        bar = "🥀TEAM-SPOTIFY🥀"
     else:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
 
         buttons  = [
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AGORAXROBOT?startgroup=true",
+                url=f"https://t.me/TOX1C_MUSICBOT?startgroup=true",
             ),
         ],
         [
@@ -241,7 +241,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🦋 DEVELOPER 🦋", url="https://t.me/AGORAWORLD"
+                text="🦋 DEVELOPER 🦋", url="https://t.me/DOSTO_KI_M3HFIL"
             ),
         ],
          [
@@ -454,19 +454,19 @@ def telegram_markup_timer(_, chat_id, played, dur):
     elif 95 <= anon < 96:
         bar = "💥MR-AGORA💥"
     elif 96 <= anon < 97:
-        bar = "🥀MR-AGORA🥀"
+        bar = "🥀MR-TOXIC🥀"
     elif 97 <= anon < 98:
-        bar = "💥TEAM-AGORA💥"
+        bar = "💥TEAM-SPOTIFY💥"
     elif 98 <= anon < 99:
-        bar = "🥀MR-AGORA🥀"
+        bar = "🥀MR-TOXIC🥀"
     else:
-        bar = "🦋TEAM-AGORA🦋"
+        bar = "🦋TEAM-SPOTIFY🦋"
         
         buttons  = [
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AGORAXROBOT?startgroup=true",
+                url=f"https://t.me/TOX1C_MUSICBOT?startgroup=true",
             ),
         ],
         [
@@ -492,7 +492,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="🦋 DEVELOPER 🦋", url="https://t.me/AGORAWORLD"
+                text="🦋 DEVELOPER 🦋", url="https://t.me/DOSTO_KI_M3HFIL"
             ),
         ],
          [
@@ -520,7 +520,7 @@ def stream_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AGORAXROBOT?startgroup=true",
+                url=f"https://t.me/TOX1C_MUSICBOT?startgroup=true",
             ),
         ],
         [
@@ -543,7 +543,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🦋 DEVELOPER 🦋", url="https://t.me/AGORAWORLD"
+                text="🦋 DEVELOPER 🦋", url="https://t.me/DOSTO_KI_M3HFIL"
             ),
         ],
          [
@@ -571,7 +571,7 @@ def telegram_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AGORAXROBOT?startgroup=true",
+                url=f"https://t.me/TOX1C_MUSICBOT?startgroup=true",
             ),
         ],
         [
@@ -591,7 +591,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🦋 DEVELOPER 🦋", url="https://t.me/AGORAWORLD"
+                text="🦋 DEVELOPER 🦋", url="https://t.me/DOSTO_KI_M3HFIL"
             ),
         ],
          [
@@ -622,7 +622,7 @@ def track_markup(_,chat_id, videoid, user_id, channel, fplay):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AGORAXROBOT?startgroup=true",
+                url=f"https://t.me/TOX1C_MUSICBOT?startgroup=true",
             ),
         ],
         [
@@ -637,7 +637,7 @@ def track_markup(_,chat_id, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="🦋 DEVELOPER 🦋", url="https://t.me/AGORAWORLD"
+                text="🦋 DEVELOPER 🦋", url="https://t.me/DOSTO_KI_M3HFIL"
             ),
         ],
         [
@@ -667,7 +667,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AGORAXROBOT?startgroup=true",
+                url=f"https://t.me/TOX1C_MUSICBOT?startgroup=true",
             ),
         ],
         [
@@ -678,7 +678,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="🦋DEVELOPER🦋", url="https://t.me/AGORAWORLD"
+                text="🦋DEVELOPER🦋", url="https://t.me/DOSTO_KI_M3HFIL"
             ),
         ],
         [
@@ -697,7 +697,7 @@ def playlist_markup(_, chat_id, videoid, user_id, ptype, channel, fplay):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AGORAXROBOT?startgroup=true",
+                url=f"https://t.me/TOX1C_MUSICBOT?startgroup=true",
             ),
         ],
         [
@@ -747,7 +747,7 @@ def slider_markup(
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AGORAXROBOT?startgroup=true",
+                url=f"https://t.me/TOX1C_MUSICBOT?startgroup=true",
             ),
         ],
         [
@@ -802,7 +802,7 @@ def queue_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AGORAXROBOT?startgroup=true",
+                url=f"https://t.me/TOX1C_MUSICBOT?startgroup=true",
             ),
         ],
         [
@@ -825,7 +825,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🦋 DEVELOPER 🦋", url="https://t.me/AGORAWORLD"
+                text="🦋 DEVELOPER 🦋", url="https://t.me/DOSTO_KI_M3HFIL"
             ),
         ],
          [
