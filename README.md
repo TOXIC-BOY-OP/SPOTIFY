@@ -3,32 +3,32 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg">
+  <img src="https://graph.org/file/e0c3aa5209c8ddc2db91a.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/TeamKimjikoin/Music/stargazers"><img src="https://img.shields.io/github/stars/TeamKimjikoin/Music?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TeamKimjikoin/Music/network/members"> <img src="https://img.shields.io/github/forks/TeamKimjikoin/Music?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamKimjikoin/Music/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/TOXIC-BOY-OP/SPOTIFY/stargazers"><img src="https://img.shields.io/github/stars/TOXIC-BOY-OP/SPOTIFY?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/TOXIC-BOY-OP/SPOTIFY/network/members"> <img src="https://img.shields.io/github/forks/TOXIC-BOY-OP/SPOTIFY?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/TOXIC-BOY-OP/SPOTIFY/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/TeamKimjikoin/Music/commits/TeamKimjikoin"> <img src="https://img.shields.io/github/last-commit/TeamKimjikoin/Music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/TOXIC-BOY-OP/SPOTIFY/commits/TOXIC-BOY-OP"> <img src="https://img.shields.io/github/last-commit/TOXIC-BOY-OP/SPOTIFY?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/19effe725dd12a4159b6b.jpg">
+  <img src="https://graph.org/file/e0c3aa5209c8ddc2db91a.jpg">
 </p>
 
 <h3 align="center">
     ─「 CLICK ON BUTTON JOIN CHANNEL AND GET DEPLOY BUTTON 」─
 </h3>
 
-<p align="center"><a href="https://t.me/agorarepos/2135"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-yellow?style=for-the-badge&logo=heroku" width="420" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/OFFLINE_HU_VMRO"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-yellow?style=for-the-badge&logo=heroku" width="420" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/TeamKimjikoin/Music/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/TOXIC-BOY-OP/SPOTIFY/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -40,7 +40,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/TeamKimjikoin/Music && cd TeamAgora`
+`git clone https://github.com/TOXIC-BOY-OP/SPOTIFY && cd TeamSpotify`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/agoraworld"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/DOSTO_KI_M3HFIL"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/teamagora"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/HEROKU_CREDIT_CARD2"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
