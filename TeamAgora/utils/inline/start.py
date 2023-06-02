@@ -24,7 +24,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="🦋 UPDATES 🦋", url=f"https://t.me/TEAMAGORA"),
+                text="🦋 UPDATES 🦋", url=f"https://t.me/HEROKU_CREDIT_CARD2"),
             InlineKeyboardButton(
                 text="🦋 SUPPORT 🦋", url=f"{config.SUPPORT_GROUP}"
             ),
@@ -47,14 +47,14 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = "https://t.me/MR_AG
             ),
         ],
         [
-            InlineKeyboardButton(text="🦋 UPDATE 🦋", url=f"https://t.me/TEAMAGORA"),
+            InlineKeyboardButton(text="🦋 UPDATE 🦋", url=f"https://t.me/HEROKU_CREDIT_CARD2"),
             InlineKeyboardButton(
                 text="🦋 SUPORT 🦋", url=f"{config.SUPPORT_GROUP}"
             ),
         ],
         [
             InlineKeyboardButton(
-                    text="𓊈🦋 DEVELOPER 🦋𓊉", url=f"https://t.me/MR_AGORA"
+                    text="𓊈🦋 DEVELOPER 🦋𓊉", url=f"https://t.me/OFFLINE_HU_VMRO"
                 )
         ],
      ]
