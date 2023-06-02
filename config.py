@@ -14,19 +14,19 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Agora UNplugged")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Spotify music")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "6181817811").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6109531260").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TeamAgora/Unplugged")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TOXIC-BOY-OP/SPOTIFY")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/teamagora")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/agoraworld")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/HEROKU_CREDIT_CARD2")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DOSTO_KI_M3HFIL")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -45,8 +45,8 @@ PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "5"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "3"))
 
-SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
+SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", 0c18ee33c393440da85e7214d9a87e07)
+SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", a548681b84ba4df9b1b158717ea1d29a)
 
 VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "5"))
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "50"))
@@ -76,11 +76,11 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/e0c3aa5209c8ddc2db91a.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/abeb776313bf1bccf1de8.jpg",
+    "https://graph.org/file/e0c3aa5209c8ddc2db91a.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/5ac765afa9758e04fcc85.jpg"
